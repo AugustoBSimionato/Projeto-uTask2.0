@@ -4,5 +4,5 @@ Repositório do projeto uTask2.0 com os arquivos: html, css, javascript e imagen
 Nome: Augusto Baroni Simionato (Trainee)
 RA: 2418185
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/72254418/151614443-d5b8cece-0eb6-4807-8ffd-aed71ac04c8b.png" />
+  <img src="https://user-images.githubusercontent.com/72254418/151616305-4a5dde45-8a48-4bc6-a98c-bc337328fa5f.png" />
 </div>
