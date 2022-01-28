@@ -1,5 +1,5 @@
 # Projeto-uTask2.0
-Repositório do projeto uTask2.0 com os arquivos: html, css e javascript.
+Repositório do projeto uTask2.0 com os arquivos: html, css, javascript e imagens utilizadas.
 
 Nome: Augusto Baroni Simionato (Trainee)
 RA: 2418185
